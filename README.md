@@ -3,9 +3,9 @@
 - 정해진 주제를 **각자 조사하여 정리**하고 서로 **의견을 나누는** 스터디 입니다.
 
 ## 📌 스터디 팀원
-| [<img src="https://github.com/JUN1515/Algorithm/assets/49270012/8f648bc4-afbe-402d-9af4-ba3e9dbb7e26" width="150px">] | [<img src="https://avatars.githubusercontent.com/-" width="150px">](https://github.com/JUN1515) | [<img src="https://avatars.githubusercontent.com/EunaAhn" width="150px">](https://github.com/EunaAhn) | [<img src="https://avatars.githubusercontent.com/wogus4048" width="150px">](https://github.com/wogus4048) | 
+| [<img src="https://avatars.githubusercontent.com/shinbm44" width="150px">](https://github.com/shinbm44) | [<img src="https://avatars.githubusercontent.com/JUN1515" width="150px">](https://github.com/JUN1515) | [<img src="https://avatars.githubusercontent.com/EunaAhn" width="150px">](https://github.com/EunaAhn) | [<img src="https://avatars.githubusercontent.com/wogus4048" width="150px">](https://github.com/wogus4048) | 
 | :---: | :---: | :---: | :---: |
-| [변현진] | [김준석](https://github.com/JUN1515) | [안은아](https://github.com/EunaAhn) | [길재현](https://github.com/wogus4048) |
+| [변현진](https://github.com/shinbm44) | [김준석](https://github.com/JUN1515) | [안은아](https://github.com/EunaAhn) | [길재현](https://github.com/wogus4048) |
 
 ## 📌 스터디 진행 방식
 - 스터디는 매주 화 / 목에 오프라인?으로 진행
