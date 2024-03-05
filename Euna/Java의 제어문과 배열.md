@@ -146,8 +146,6 @@ switch(조건) {
     - 같은 데이터가 다른 주소값을 가지지 않기 때문
 - 하지만 String, Array, Date, File 등의 비원시형태의 데이터형은 ==를 사용하면 올바르게 비교가 되지 않을 수 있다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bb19166d-a0fa-441d-9390-7b493cb2b1d7/3f81a0c6-7c7e-4314-ae64-10477bd5b105/Untitled.png)
-
 > 실제로 이렇게 사용할 일은 거의 없겠지만, new String("java")를 두 번 반복해서 o1과 o2에 값을 넣어주게 되면, 각 인스턴스는 다른 주소값에 데이터를 가지게 된다.
 > 
 
